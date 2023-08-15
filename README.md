@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning Full Stack Web Devlopment and related frameworks.
+- 🌱 I’m currently learning Full Stack Web Development and related frameworks.
 - 📫 How to reach me: [Email](ashutoshsingh468847@gmail.com).
 
 
